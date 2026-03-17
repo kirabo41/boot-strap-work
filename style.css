@@ -1,0 +1,48 @@
+
+.section2{
+    background-image: url("istockphoto-2186780950-612x612.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: rgb(255, 255, 255,0.1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+.section6{
+    background-image: linear-gradient(rgb(245, 152, 152),rgb(240, 208, 166));
+}
+.footer{
+    background-color: rgb(207, 116, 116)
+}
+a:hover{
+    color: blueviolet;
+    transition: 2s;
+}
+.container-fluid{
+ font-style: italic;
+ font-size: larger;
+}
+h2{
+    text-align: center;
+}
+.heading{
+    font-size: xxx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+button{
+    background-color: rgb(219, 178, 148);
+    margin-left: 25%;
+}
+button:hover{
+    color: blue;
+}
+h1{
+text-align: center;
+}
+.img-fluid{
+    height: 200px;
+    width: 100%;
+    margin-left: 5px;
+}
